@@ -1,1 +1,1 @@
-"text" - prompt, *text*/[text] - hallucinations
+"text" - prompt, \*text\*/\[text\] - hallucinations
